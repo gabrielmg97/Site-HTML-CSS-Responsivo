@@ -185,10 +185,11 @@ aside ul{
     columns: 2;
 }
 
-aside >ul.infcontato{
+ul.infcontato{
     list-style-type: "\2714\00A0\00A0";/* \2714 é o emoji de check e \00A0 é uma distancia*/
     list-style-position: inside;
     columns: 1;
+     
     
 }
 
